@@ -15,5 +15,14 @@ I ran an API call on Open Weather Map with the randomly generated list of citite
 ### Use Pandas to disect the information
 I used pandas to convert the raw data pulled from the randomly generated cities and weather data to create a dataframe. I used if statements to set parameters on weather and created a new datafram. 
 
-### Use Matplotlib to create charts to display the data
+### Use Pyplot to create charts to display the data
+I used pandas to pull in the weather data and make various charts based on weather type and location. 
+
+![APIplotting](https://user-images.githubusercontent.com/74504885/123320121-f4db7b00-d4f6-11eb-8e73-9474302502fb.PNG)
+
+To predict weather patterns, I created a linear regression on the various weather types and locations. 
+
+![APIlinregression](https://user-images.githubusercontent.com/74504885/123320184-0c1a6880-d4f7-11eb-8d14-c3674c3088f0.PNG)
+
+
 
