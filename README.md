@@ -3,6 +3,13 @@
 ## Weather
 
 ### The Data
+To create a list of cities for this analysis, I randomly generated latitudes and longitudes. I used citipy to find the city nearest the coordinates generated. 
+
+![APIgeneratecities](https://user-images.githubusercontent.com/74504885/123317639-daec6900-d4f3-11eb-878d-bdc428e0418f.PNG)
+
+I ran an API call on Open Weather Map with the randomly generated list of citites. Using a for loop, I called and appended the cities, lat, lon, temperatures, weather data, and date. 
+
+![APIapicall](https://user-images.githubusercontent.com/74504885/123317867-23a42200-d4f4-11eb-89c0-81da9f3ec542.PNG)
 
 ### Use Pandas to disect the information
 
