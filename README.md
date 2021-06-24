@@ -1,4 +1,4 @@
-# Vacation and Weather Analysis
+# Weather and Vacation Analysis
 
 ### The Data
 
