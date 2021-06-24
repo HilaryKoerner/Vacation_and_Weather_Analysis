@@ -1,5 +1,5 @@
 # Weather and Vacation Analysis
-I created a robust Jupyter Notebook with two API calls to pull in weather data and 
+I created a robust Jupyter Notebook with two API calls to pull in weather data and hotel data based on location. 
 
 ## Weather
 
