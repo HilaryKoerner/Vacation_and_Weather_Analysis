@@ -13,6 +13,7 @@ I ran an API call on Open Weather Map with the randomly generated list of citite
 ![APIapicall](https://user-images.githubusercontent.com/74504885/123317867-23a42200-d4f4-11eb-89c0-81da9f3ec542.PNG)
 
 ### Use Pandas to disect the information
+I used pandas to convert the raw data pulled from the randomly generated cities and weather data to create a dataframe. I used if statements to set parameters on weather and created a new datafram. 
 
 ### Use Matplotlib to create charts to display the data
 
