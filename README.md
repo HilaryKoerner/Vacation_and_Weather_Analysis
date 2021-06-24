@@ -24,5 +24,10 @@ To predict weather patterns, I created a linear regression on the various weathe
 
 ![APIlinregression](https://user-images.githubusercontent.com/74504885/123320184-0c1a6880-d4f7-11eb-8d14-c3674c3088f0.PNG)
 
+Finally, I exported the data to a CSV file to use in the vacation analysis. 
+
+![APIexport](https://user-images.githubusercontent.com/74504885/123320295-2ce2be00-d4f7-11eb-954e-176e622b5a5e.PNG)
+
+
 
 
