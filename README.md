@@ -1,5 +1,7 @@
 # Weather and Vacation Analysis
 
+## Weather
+
 ### The Data
 
 ### Use Pandas to disect the information
